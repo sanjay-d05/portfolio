@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ae4c9713.css",
+    "main.js": "/portfolio/static/js/main.938c7a97.js",
+    "static/media/wedding-photography.jpeg": "/portfolio/static/media/wedding-photography.3fa95e821225ecbe51cb.jpeg",
+    "static/media/gpt3.jpeg": "/portfolio/static/media/gpt3.d994a209227f2b40a69a.jpeg",
+    "static/media/live-weather.jpeg": "/portfolio/static/media/live-weather.3a8a7d4a3f3d274f6a63.jpeg",
+    "static/media/udemy1.jpg": "/portfolio/static/media/udemy1.a20d8dfb45e6ebe3c4d3.jpg",
+    "static/media/udemy2.jpg": "/portfolio/static/media/udemy2.1b3cc265ca82173cabe8.jpg",
+    "static/media/encrypt-decrypt.jpeg": "/portfolio/static/media/encrypt-decrypt.53b3df37f5942d0d847e.jpeg",
+    "static/media/trendy-tales.jpeg": "/portfolio/static/media/trendy-tales.62355d6ba5e62b2d25c4.jpeg",
+    "static/media/mind-sprint.jpeg": "/portfolio/static/media/mind-sprint.eb1c12198c752fd79085.jpeg",
+    "static/media/todo.jpeg": "/portfolio/static/media/todo.3e2c66e73830975794ab.jpeg",
+    "static/media/about-img.svg": "/portfolio/static/media/about-img.f093d81109aa1d7eb6fb783f8205edcb.svg",
+    "static/media/SANJAY_D_RESUME.pdf": "/portfolio/static/media/SANJAY_D_RESUME.6b32b8e16ed5274400c7.pdf",
+    "static/media/coursera5.jpg": "/portfolio/static/media/coursera5.8ae4334f617981644403.jpg",
+    "static/media/coursera2.jpg": "/portfolio/static/media/coursera2.62d73f071c79ba89460b.jpg",
+    "static/media/coursera1.jpg": "/portfolio/static/media/coursera1.0ad633f3483566cdf12e.jpg",
+    "static/media/coursera3.jpg": "/portfolio/static/media/coursera3.32f6ce79ea0e1aa97b89.jpg",
+    "static/media/home-secondary.svg": "/portfolio/static/media/home-secondary.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolio/index.html",
+    "main.ae4c9713.css.map": "/portfolio/static/css/main.ae4c9713.css.map",
+    "main.938c7a97.js.map": "/portfolio/static/js/main.938c7a97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae4c9713.css",
+    "static/js/main.938c7a97.js"
+  ]
+}
