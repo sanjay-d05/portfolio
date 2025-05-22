@@ -1,0 +1,199 @@
+
+
+/* preloader section */
+
+
+#preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 999999;
+  background-color: #0c0513;
+  background-image: url(./assets/pre.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#preloader-none {
+  opacity: 0;
+}
+
+#no-scroll {
+  overflow: hidden;
+  height: 100vh;
+}
+
+/* navbar */
+.navbar{
+  background: #000000 !important;
+}
+
+.nav-links{
+  transition: all 0.3s ease;
+}
+
+.nav-links:hover{
+  transform: scale(1.3) !important;
+}
+
+.btn-resume{
+  background-color: #ab3483 !important;
+  border-radius: 10px !important;
+  transition: all 0.3s ease;
+}
+
+.btn-resume:hover{
+  color: #000000 !important;
+  transform: scale(1.1);
+}
+
+.nav-navs:hover{
+  color: #ab3483 !important;
+}
+.bg-navs{
+  background-color: #000000;
+}
+
+
+
+.container::-webkit-scrollbar {
+  width: 8px;
+}
+
+.container::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.3); /* Transparent scrollbar */
+  border-radius: 4px;
+}
+
+/* navbar side styles */
+/* Global Styles */
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden; /* Prevent full-page scrolling */
+  background-color: #121212; /* Dark theme */
+  color: #ffffff;
+}
+
+/* Navbar Fixed at the Top */
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 60px; /* Adjust based on your Navbar */
+  background: #1a1a1a;
+  z-index: 1000; /* Ensures it stays above content */
+}
+
+/* Main Content - Scrollable */
+.bg-dark {
+  height: 100vh;
+  width: 100vw;
+  overflow-y: auto; /* Enable vertical scrolling */
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+  padding-top: 60px; /* Prevent content from hiding behind navbar */
+}
+
+/* Footer */
+.footer {
+  width: 100%;
+  background: #1a1a1a;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Scrollbar Styles */
+.bg-dark::-webkit-scrollbar {
+  width: 4px; /* Thin scrollbar */
+}
+
+.bg-dark::-webkit-scrollbar-thumb {
+  background: #888; /* Scrollbar color */
+  border-radius: 10px;
+}
+
+.bg-dark::-webkit-scrollbar-track {
+  background: transparent; /* Hide scrollbar track */
+}
+
+/* Firefox Scrollbar */
+.bg-dark {
+  scrollbar-width: thin;
+  scrollbar-color: #888 transparent;
+}
+
+/* about */
+
+.tech-icons {
+  border: 1.5px solid #ab3483;
+  font-size: 4.5em !important;
+  padding: 10px !important;
+  opacity: 0.93 !important;
+  vertical-align: middle !important;
+  text-align: center !important;
+  border-radius: 5px !important;
+  display: table !important;
+  box-shadow: 4px 5px 4px 3px rgba(89, 4, 168, 0.137) !important;
+  overflow: hidden !important;
+  transition: all 0.4s ease  !important;
+}
+.tech-icons:hover {
+  transform: scale(1.05) !important;
+  overflow: hidden !important;
+  border: 2.2px solid #ab3483 !important;
+}
+.tech-icon-images {
+  padding: 20px !important;
+  line-height: 1.6 !important;
+}
+
+/* projects */
+
+.project-card-container {
+  box-shadow: 0 4px 5px 3px #ab3483 !important;
+  color: white !important;
+  background-color: transparent !important;
+  opacity: 0.9 !important;
+  transition: all 0.5s ease 0s !important;
+  height: 100% !important;
+}
+.project-card-container:hover {
+  transform: scale(1.02) !important;
+  overflow: hidden !important;
+  box-shadow: 0 4px 4px 5px #ab3483 !important;
+}
+.btn-projects{
+  border: 1px solid #ab3483 !important;
+  color: #ab3483 !important;
+  transition: all 0.3s ease !important;
+}
+.btn-projects:hover{
+  color: #fff !important;
+  background-color: #ab3483 !important;
+}
+
+
+/* certficates */
+
+.certificate-card{
+  background: transparent !important;
+  color:  #ffffff !important;
+  border: 2px solid #ab3483 !important;
+  border-radius: 8px !important;
+}
+
+/* blogs */
+.view-blog{
+ transition: 0.4s all ease-in; 
+}
+
+.view-blog:hover{
+  color: #0c0513 !important;
+}
+
+
