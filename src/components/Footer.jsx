@@ -56,7 +56,7 @@ function Footer() {
                         <FaGithub size={20} color='#ab3483'/>
                     </a>
                     <a className='footer-social-icons' href="https://www.linkedin.com/in/sanjayd05" target='_blank'>
-                        <FaLinkedinIn size={20} color='#ab3483'/>
+                        <IoLogoLinkedin size={20} color='#ab3483'/>
                     </a>
                     <a className='footer-social-icons' href="https://leetcode.com/u/sanjay_05_08_17" target='_blank'>
                         <SiLeetcode size={20} color='#ab3483'/>
