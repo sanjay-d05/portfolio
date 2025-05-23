@@ -25,7 +25,7 @@ function Footer() {
       ] ;
 
   return (
-    <div className='container-fluid py-3 mt-5' style={{backgroundColor : '#1e1e2e'}}>
+    <div className='py-3 mt-5' style={{backgroundColor : '#1e1e2e'}}>
         <div className='d-flex flex-column flex-md-row justify-content-between align-items-center '>
             <p className='mb-0'>
                 Designed And Developed By SANJAY D
