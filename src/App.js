@@ -26,7 +26,7 @@ function App() {
   return (
    <>
    <PreLoader load={load}/>
-   <div className='bg-dark text-light' style={{height:'100vh' , width:'100vw' , overflow:'auto'}}>
+   <div className='bg-dark text-light'>
     <NavHeader />
     <Routes>
       <Route path='/' element={<Home />} />
