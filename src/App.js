@@ -26,7 +26,7 @@ function App() {
   return (
    <>
    <PreLoader load={load}/>
-   <div className='bg-dark text-light'>
+   <div className='bg-dark text-light' style={{ paddingTop: '70px' }}>
     <NavHeader />
     <Routes>
       <Route path='/' element={<Home />} />
